@@ -16,6 +16,9 @@ Smart contracts done in solidity.
         A smart contract that allows A to send money to B but B is not able to send money to A. The payment is unidirectional only.
 
 - ### [Multi Sig Wallet ](https://github.com/abiiralbhattarai/Smart-Contracts/blob/main/contracts/MultiSigWallet.sol)
+
+- ### [English Auction ](https://github.com/abiiralbhattarai/Smart-Contracts/blob/main/contracts/EnglishAuction.sol)
+        English auction for NFT. Highest Bidder becomes the new owner of the NFT.
  
 # Smart Contracts Hacks
 
